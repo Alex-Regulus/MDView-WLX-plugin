@@ -1,0 +1,115 @@
+MDView Freeware License (Non-Commercial Use Only)
+
+Copyright (c) 2026 Alex Regulus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to run,
+use, and copy the Software for personal, educational, and non-commercial
+purposes only, subject to the following conditions:
+
+1. The Software may not be used, redistributed, or sold for commercial
+   purposes (including integration into commercial packages or corporate
+   environments) without prior written permission from the copyright holder.
+
+2. You may copy and distribute verbatim copies of the Software's binary files
+   as received, provided that you conspicuously and appropriately publish on
+   each copy an appropriate copyright notice and disclaimer of warranty, keep
+   intact all the notices that refer to this License, and give any other
+   recipients of the Software a copy of this License along with the Software.
+
+3. You may not modify, decompile, disassemble, decrypt, extract, or reverse
+   engineer the binary files of the Software, nor create derivative works
+   based on the Software.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+=============================================================================
+THIRD-PARTY SOFTWARE NOTICES AND LICENSES
+=============================================================================
+
+This file contains notices and licenses for the third-party software components used in MDView.
+
+-----------------------------------------------------------------------------
+1. md4c
+- Description: Markdown parser library in C (used for high-performance parsing)
+- Home Page: https://github.com/mity/md4c
+- License: MIT License
+
+Copyright (c) 2016-2020 Martin Mitas
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----------------------------------------------------------------------------
+2. Microsoft.Web.WebView2 SDK
+- Description: Microsoft Edge WebView2 control SDK and loader library
+- Home Page: https://developer.microsoft.com/en-us/microsoft-edge/webview2/
+- License: Microsoft Software License (Redistribution License for WebView2Loader.dll)
+
+-----------------------------------------------------------------------------
+3. highlight.js
+- Description: JavaScript syntax highlighter
+- Home Page: https://github.com/highlightjs/highlight.js
+- License: BSD 3-Clause License
+
+BSD 3-Clause License
+
+Copyright (c) 2006, Ivan Sagalaev
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----------------------------------------------------------------------------
+4. Built-in Markdown Themes and CSS Styles
+Various CSS stylesheets included in the styles/ folder are derived from open-source projects:
+- Github Markdown CSS: (MIT License) - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+- Bulma CSS: (MIT License) - Copyright (c) 2024 Jeremy Thomas
+- Bootstrap CSS: (MIT License) - Copyright (c) 2011-2024 The Bootstrap Authors
+- Foundation CSS: (MIT License) - Copyright (c) 2024 Yet Another Society
+- Dracula Theme: (MIT License) - Copyright (c) 2015 Éverton Ribeiro and Zeno Rocha
+- Solarized Theme: (MIT License) - Copyright (c) 2011 Ethan Schoonover
+- Sakura CSS: (MIT License) - Copyright (c) 2016 Mislav Marohnić
